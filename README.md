@@ -1,16 +1,12 @@
-##citation
+## 📖 Citation
 
+If you use this project, please cite:
 
-'''python
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-- family-names: "PENG"
-  given-names: "Bo"
-  orcid: "https://orcid.org/0000-0002-0865-547X"
-title: "RWKV-LM"
-version: 1.0.0
-doi: 10.5281/zenodo.5196577
-date-released: 2021-08-13
-url: "https://github.com/BlinkDL/RWKV-LM"
-'''
+```bibtex
+@software{peng2021rwkv,
+  author = {Bo Peng},
+  title = {RWKV-LM},
+  year = {2021},
+  doi = {10.5281/zenodo.5196577},
+  url = {https://github.com/BlinkDL/RWKV-LM}
+}
