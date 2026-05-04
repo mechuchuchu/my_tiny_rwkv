@@ -1,5 +1,5 @@
 ##citation
-
+'''
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
@@ -11,3 +11,4 @@ version: 1.0.0
 doi: 10.5281/zenodo.5196577
 date-released: 2021-08-13
 url: "https://github.com/BlinkDL/RWKV-LM"
+'''
