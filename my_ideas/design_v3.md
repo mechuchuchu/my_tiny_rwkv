@@ -12,7 +12,7 @@
 Large-scale LLM training is effectively monopolized by big tech. Without hundreds of A100/H100s and InfiniBand clusters, it's out of reach. Quail aims to tear down that barrier.
 
 Key observations:
-- The RWKV community already has many contributors with H100-class GPUs
+- The community already has many contributors with H100-class GPUs
 - What if more participants naturally scales up training?
 - What if a node dying doesn't stop training?
 - What if anyone can participate over a regular home internet connection?
